@@ -4,6 +4,11 @@
 int main(){
     int i, num,head=0;
 
+    char[8];
+    printf("あんた誰？　\n");
+    scanf("%s",str);
+    printf("ハロー、%s\n",str);
+
     printf("Tossing a coin...\n");
     for(i=o;i<3;i++){
         num = rand();

@@ -26,6 +26,6 @@ int main(){
     if(heads>tails){
      printf("%s won\n",str);   
     }else{
-     printf("%s lost\n",str);   
+     printf("% lost\n",str);   
     }
 }
